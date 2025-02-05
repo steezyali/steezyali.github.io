@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+
+👋 Hello there! I'm Jon ...
 
 
 👨‍💻 I'm a final year graduate student at Carnegie Mellon University
@@ -14,6 +15,7 @@ redirect_from:
 🎓 Obtained my Bachelor's in Mechanical Engineering (with focus in Robotics & Controls) from Carnegie Mellon University
 
 🔬 My interests span mechatronics, computer vision and speech processing
+
 
 Take a look at the links above to learn more about me! :)
 
