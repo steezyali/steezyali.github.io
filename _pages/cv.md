@@ -53,7 +53,7 @@ PowerBI dashboard dev, Solidworks, AutoCAD/Autodesk Revit, Arduino, Microsoft Of
 Graduate Courses
 ======
 * Machine Learning and Artificial Intelligence for Engineers 
-* Introduction to Deep Learning Fluid Mechanics
+* Introduction to Deep Learning 
 * Applied Deep Learning
 * AI in Business Modeling
 * Systems & Tool Chains for Artificial Intelligence Engineers 
