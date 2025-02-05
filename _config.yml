@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jon_profile.png"
+  avatar           : "profile.png"
   name             : "Jonathan Ali"
   pronouns         : # example: "she/her"  
   bio              : "Master's in Artificial Intelligence Engineering Student"
