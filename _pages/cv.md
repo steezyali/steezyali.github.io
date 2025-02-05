@@ -44,24 +44,32 @@ Skills
   * Apache Spark, TensorFlow, Apache Kafka, PostgreSQL, Databricks, Data Cleansing, Signal Processing, Tableau,
 PowerBI dashboard dev, Solidworks, AutoCAD/Autodesk Revit, Arduino, Microsoft Office Suite, Linux, CUD
 
-Publications
+RELEVANT COURSES
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+● Machine Learning and Artificial Intelligence for Engineers 
+● Introduction to Deep Learning Fluid Mechanics
+● Applied Deep Learning
+● AI in Business Modeling
+● Systems & Tool Chains for Artificial Intelligence Engineers 
+● Modern Control Theory 
+● Trustworthy Artificial Intelligence 
+● Advanced Controls Systems Integration 
+
+PROJECTS
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+● “Fly-Five”, Bio-inspired Robotics (24-775) Spring 2024
+● Pioneered electronic design of robotic-winged drone, designed and tested sensors for flight data collection
+● Processed time-series data and conducted statistical analysis via Python/NumPy/Jupyter notebook
+● Contributed to multi-joint robotic wing design and created data logging testbed
+“Boxmania”, Electromechanical Systems Design (24-370) Fall 2023
+● Managed in a team of four towards creating a cardboard box recycler via combining automation and sustainability
+methods
+● Designed and programmed flap opening system for fixed-size cardboard boxes, achieved 80% reliability
+● Contributed cutting subsystem for taped ends by ideating and implementing blade-linear actuator
+
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently participating in the NASA L'SPACE Mission Concept Academy 
