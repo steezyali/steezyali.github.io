@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science in Artificial Intelligence Engineering, May 2025, Carnegie Mellon University, Pittsburgh, PA
+* Bachelor of Science in Mechanical Engineering, Dec 2023, Carnegie Mellon University, Pittsburgh, PA
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Lockheed Martin, Systems Engineering Intern - Mitchel Field, NY June 2024 – August 2024
+  * Supporting navigation system integration by interfacing MATLAB simulations for Velocity Modeling & Simulation team
+  * Refining velocity errors by evaluating various model use cases via MATLAB for noise analysis and testing performance
+  * Exploring signal processing methods for noise identification and reduction
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lockheed Martin, Systems Engineering Intern - Liverpool, NY June 2023 - August 2023
+  * Supported Internal Research & Development (IRAD) team with development of next generation APY-9 radar
+  * Developed theoretical performance use cases from legacy radar system via Excel data analysis
+  * Collaborated with firmware, systems and radio frequency engineering teams towards understanding and documenting
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* John Deere, Product Verification & Validation Engineering Intern - Waterloo, IA May 2022 - August 2022
+  * Analyzed & performed data science techniques on large tractor cloud Time Series user data via Python/SQL, PySpark
+& Pandas towards distinguishing primary and secondary tillage metrics.
+  * Refined application duty cycle with machine learning models with 80+% accuracy for the Applied Mechanics Team
+  * Worked alongside the Quality Analytics and global teams (Brazil, India & Germany) on driving insight into 7R, 8R & 9R
+Model performance via Power BI visualization model spanning warranty data from general large tractor model to
+specific part information
+ 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming:
+  * SQL, PyTorch, Tensorflow, MATLAB, Python, C++, Pyspark/Pandas, Golang, HTML
+* Software:
+  * Apache Spark, TensorFlow, Apache Kafka, PostgreSQL, Databricks, Data Cleansing, Signal Processing, Tableau,
+PowerBI dashboard dev, Solidworks, AutoCAD/Autodesk Revit, Arduino, Microsoft Office Suite, Linux, CUD
 
 Publications
 ======
