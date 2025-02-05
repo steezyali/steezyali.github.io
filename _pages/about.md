@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am an Master's in Artificial Intelligence Engineering student at Carnegie Mellon University
-
-Jonathan's personal website
+Welcome to my personal website! 
 ======
+
+
+👨‍💻 I'm a final year graduate student at Carnegie Mellon University
+
+🎓 Obtained my Bachelor's in Mechanical Engineering (with focus in Robotics & Controls) from Carnegie Mellon University
+
+🔬 My interests span mechatronics, computer vision and speech processing
 
 Take a look at the links above to learn more about me! :)
 
