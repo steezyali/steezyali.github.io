@@ -6,6 +6,4 @@ collection: portfolio
 
 
 In response to the prominence of organic, curved designs in contemporary architecture, this project I aims at providing the user a simple non-linear wood bending for wooden planks of fixed dimensions. This sophisticated mechatronic system integrates accurate, force-sensing load cells, powerful linear actuators, and precise control algorithms all within one robust mechanical structure. The system enables bending by securing it into clamps and sending position data into the device’s microcontroller. To validate the effectiveness of our design, we conducted a number of tests in which we saturated 1/8in planks of wood in warm water and bent them into various curves to assess the machine’s bending capabilities across a number of shapes. These tests helped us to ensure that the machine would meet our client specifications. Overall, the device stands as a testament to my vision of providing an affordable, accessible approach to the wood bending process.
-
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ 
