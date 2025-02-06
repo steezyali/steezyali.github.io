@@ -25,5 +25,3 @@ sensors, we designed mounting brackets as attachment points for the infrared sen
 integrated within the structure of the chair back, and the force sensors were attached beneath
 the surface layer of the seat. This final product meets our design requirements of sensing
 accuracy, comfort, clarity of feedback, ease of setup, and height and weight requirements.
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
