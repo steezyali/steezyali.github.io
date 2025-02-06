@@ -1,5 +1,5 @@
 ---
-title: "Wood Bending Machine"
+title: "Wood Bending Machine, Mechatronics Applications in Mechanical Engineering (24354)"
 excerpt: "Seamless wood bending combined with actuation <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
