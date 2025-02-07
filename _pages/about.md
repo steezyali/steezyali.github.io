@@ -20,7 +20,7 @@ redirect_from:
 
 
 Take a look at the links above to learn more about me! :)
-##Feel free to reach out via email: jhali@andrew.cmu.edu or cell: +1 8622417924
+## Feel free to reach out via email: jhali@andrew.cmu.edu or cell: +1 8622417924
 
 
 ### Fun fact: I summited Mt. Marcy last summer, the highest point in New York State! 
