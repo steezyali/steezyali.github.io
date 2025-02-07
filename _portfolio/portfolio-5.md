@@ -1,6 +1,6 @@
 ---
 title: "Habitat Airlock Linkage System, Design II"
-excerpt: "Design and simulation of a rack for Astronaut coats. <br/><img src='/images/HANGER.png'>"
+excerpt: "Design and simulation of a rack for Astronaut coats. <br/><img src='/images/linkage.png'>"
 collection: portfolio
 ---
 
