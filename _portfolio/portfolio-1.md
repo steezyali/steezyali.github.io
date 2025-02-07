@@ -1,6 +1,7 @@
 ---
 title: "“Fly-Five”, Bio-inspired Robotics (24-775)"
-excerpt: "Designing and analyzing a wing configuration featuring double joint actuation 1<br/><img src='/images/500x300.png'>"
+excerpt: "Designing and analyzing a wing configuration featuring double joint actuation 1<br/><img src='/images/PXL_20240429_171839662.png
+'>"
 collection: portfolio
 ---
 
