@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hello there! I'm Jon ...
+👋 Hello there! Welcome to my personal website :) I'm Jon!
 
 
-👨‍💻 I'm a final year graduate student at Carnegie Mellon University
+👨‍💻 I'm currently a final year graduate student at Carnegie Mellon University
 🎓 Obtained my Bachelor's in Mechanical Engineering (with focus in Robotics & Controls) from Carnegie Mellon University
 🔬 My interests span machine learning, mechatronics, computer vision and speech processing
 
-Outside of school, you can find me at the gym or scaling some of the local Pittsburgh hills
+Outside of school, you can find me at the gym, trying new dishes around town, or scaling some of the local Pittsburgh hills
 
 
 Take a look at the links above to learn more about me! :)
 Feel free to reach out via email: jhali@andrew.cmu.edu or cell: +1 8622417924
 
 
+### Fun fact: I summited Mt. Marcy last summer, the highest point in New York State! 
+<br/><img src='/images/IMG_8847.png'>
 
-### Fun fact: I summited Mt. Marcy, the highest point in New York State! 
-<br/><img src='/images/IMG_8847.png> 
 
