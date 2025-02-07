@@ -15,4 +15,10 @@ Inspired by the peregrine falcon, this project investigates a novel two-joint va
 [![Your Video Title](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=sQKwbzWWPtY)
 
 
+| WHAT | HOW | RESULTS |
+|------|-----|---------|
+| - Designed and **prototyped** a robot that unfolds cardboard boxes <br> - Performed Failure Modes and Effects Analysis (**FMEA**) to refine design <br> - Conducted **static analysis** to determine motor parameters (speed, torque) | - Used **Fusion360** to design chassis and components for robot <br> - Fabricated chassis components using **Laser Cutting** and **3D Printing** <br> - Applied **DFMA** techniques to minimize the number of 3D parts to reduce fabrication lead times | - Robot successfully processed a cardboard box in **25s** <br> - Improved system reliability to **80%** by applying FMEA techniques |
+
+
+
 
