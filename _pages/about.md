@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Hi there! Welcome to my personal website, I'm Jon :)"
+title: "👋Hi there! Welcome to my personal website, I'm Jon :)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 
 
