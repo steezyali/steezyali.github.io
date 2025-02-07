@@ -9,3 +9,6 @@ collection: portfolio
 Inspired by the peregrine falcon, this project investigates a novel two-joint variable-sweep wing system. By emulating the natural wing morphing mechanisms of a peregrine falcon, an aircraft wing configuration was designed/manufactured, featuring a two-joint wing system capable of zero joint actuation (fixed wing), single joint actuation, and double joint actuation.
 
 <br/><img src='/images/poster_bioinspired.png'>
+
+excerpt: "Check out this fun video my team made!"
+[![Video Title](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=sQKwbzWWPtY)
