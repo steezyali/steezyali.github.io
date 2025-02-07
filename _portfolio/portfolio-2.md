@@ -1,6 +1,6 @@
 ---
 title: "Boxmania, Electromechanical Systems Design (24-370)"
-excerpt: "Automated cardboard flattening mechanism, a solution to cardboard waste <br/><img src='/images/images/2d1c08_5d6723af558541729cdc7b6c163c42b9~mv2.png'>"
+excerpt: "Automated cardboard flattening mechanism, a solution to cardboard waste <br/><img src='/images/2d1c08_5d6723af558541729cdc7b6c163c42b9~mv2.png'>"
 collection: portfolio
 ---
 
