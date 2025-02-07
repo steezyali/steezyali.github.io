@@ -10,5 +10,7 @@ Inspired by the peregrine falcon, this project investigates a novel two-joint va
 
 <br/><img src='/images/poster_bioinspired.png'>
 
-excerpt: "Check out this fun video my team made!"
-[![Video Title](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=sQKwbzWWPtY)
+###  Check out this fun video my team made!
+
+[![Your Video Title](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=sQKwbzWWPtY)
+
