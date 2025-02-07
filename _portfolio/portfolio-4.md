@@ -27,5 +27,5 @@ the surface layer of the seat. This final product meets our design requirements 
 accuracy, comfort, clarity of feedback, ease of setup, and height and weight requirements.
 
 
-### Side angle view of layout 
+### Presentation
 <br/><img src='/images/Poster.png'> 
