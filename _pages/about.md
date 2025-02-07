@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-
 👨‍💻 I'm currently a final year graduate student at Carnegie Mellon University
 
 🎓 Obtained my Bachelor's in Mechanical Engineering (with focus in Robotics & Controls) from Carnegie Mellon University
