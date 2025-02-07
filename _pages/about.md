@@ -14,7 +14,7 @@ redirect_from:
 🎓 Obtained my Bachelor's in Mechanical Engineering (with focus in Robotics & Controls) from Carnegie Mellon University
 🔬 My interests span machine learning, mechatronics, computer vision and speech processing
 
-Outside of school, you can find me at the gym, trying new dishes around town, or scaling some of the local Pittsburgh hills
+Outside of school, you can find me weightlifting, trying new dishes around town, or reading Sci-Fi (currently on 'Stranger in a Strange Land')
 
 
 Take a look at the links above to learn more about me! :)
