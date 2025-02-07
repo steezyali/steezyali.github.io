@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
 
 👨‍💻 I'm currently a final year graduate student at Carnegie Mellon University
 
