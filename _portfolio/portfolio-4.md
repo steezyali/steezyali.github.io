@@ -1,6 +1,6 @@
 ---
 title: "PosChair: Posture Sensing and Correction Device (24-441)"
-excerpt: "Proof of concept product that can detect posture, make users aware of their posture, and correct that behavior for people seated at a desk. <br/><img src='/images/500x300.png'>"
+excerpt: "Proof of concept product that can detect posture, make users aware of their posture, and correct that behavior for people seated at a desk. <br/><img src='/images/POSCHAIR.png'>"
 collection: portfolio
 ---
 
