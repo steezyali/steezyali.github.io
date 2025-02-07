@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 # 👋 Hello there! Welcome to my personal website :) I'm Jon!
 
 
