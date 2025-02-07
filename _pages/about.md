@@ -1,7 +1,7 @@
 ---
 permalink: /
 # title: "👋 Hello there! Welcome to my personal website :) I'm Jon!"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
