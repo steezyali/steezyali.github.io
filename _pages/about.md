@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## 👋 Hello there! Welcome to my personal website :) I'm Jon!
+# 👋 Hello there! Welcome to my personal website :) I'm Jon!
 
 
 👨‍💻 I'm currently a final year graduate student at Carnegie Mellon University
@@ -16,11 +16,11 @@ redirect_from:
 
 🔬 My interests span machine learning, mechatronics, computer vision and speech processing
 
-Outside of school, you can find me weightlifting, trying new dishes around town, or reading Sci-Fi (currently on 'Stranger in a Strange Land')
+🏋️Outside of school, you can find me weightlifting, trying new dishes around town, or reading Sci-Fi (currently on 'Stranger in a Strange Land')
 
 
 Take a look at the links above to learn more about me! :)
-Feel free to reach out via email: jhali@andrew.cmu.edu or cell: +1 8622417924
+##Feel free to reach out via email: jhali@andrew.cmu.edu or cell: +1 8622417924
 
 
 ### Fun fact: I summited Mt. Marcy last summer, the highest point in New York State! 
