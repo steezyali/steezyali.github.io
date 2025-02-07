@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hello there! Welcome to my personal website :) I'm Jon!
+## 👋 Hello there! Welcome to my personal website :) I'm Jon!
 
 
 👨‍💻 I'm currently a final year graduate student at Carnegie Mellon University
+
 🎓 Obtained my Bachelor's in Mechanical Engineering (with focus in Robotics & Controls) from Carnegie Mellon University
+
 🔬 My interests span machine learning, mechatronics, computer vision and speech processing
 
 Outside of school, you can find me weightlifting, trying new dishes around town, or reading Sci-Fi (currently on 'Stranger in a Strange Land')
