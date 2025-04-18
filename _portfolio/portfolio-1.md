@@ -1,17 +1,44 @@
 ---
-title: "“Fly-Five”, Bio-inspired Robotics (24-775)"
-excerpt: "Designing and analyzing a wing configuration featuring double joint actuation <br/><img src='/images/PXL_20240429_171839662.png
-'>"
+title: "Falcon-Inspired Robotic Glider with Multi-Joint Wing Morphing (24-775)"
+excerpt: "A bio-inspired robotic glider designed to mimic the peregrine falcon’s wing dynamics with a multi-joint morphing wing system for improved diving speed and vibration reduction. <br/><img src='/images/FalconGlider.png'>"
 collection: portfolio
 ---
 
+---
 
-| WHAT | HOW | RESULTS |
-|------|-----|---------|
-| - Designed and **prototyped** a variable-sweep wing system that features fixed wing, single and double jointed rotations<br> - Designed mechatronics layout and implemented/calibrated efficient SD data card logging, vibration and altimeter sensors<br> - Conducted **flight testing** to analyze trajectory and wing vibration effects | - Used **Arduino** and **Jupyter Notebook** to perfrom data post-processing <br> - Implemented servo-mechanism and compact electronics within fuselage <br> | - No statistical difference in vibrations in variable sweep wings, but single/double joint configurations exhibited more vibrations <br> - Double joint wings achieve higher dive velocities than single and fixed configurations |
+### Falcon-Inspired Robotic Glider with Multi-Joint Wing Morphing  
+**Course:** Bio-Inspired Robot Design and Experimentations (24-775)  
+**Team Role:** Electronics Design and Sensor Data Logging Lead  
+**Carnegie Mellon University | Fall 2024**
 
-## Context
-Inspired by the peregrine falcon, this project investigates a novel two-joint variable-sweep wing system. By emulating the natural wing morphing mechanisms of a peregrine falcon, an aircraft wing configuration was designed/manufactured, featuring a two-joint wing system capable of zero joint actuation (fixed wing), single joint actuation, and double joint actuation.
+#### Introduction  
+Aerial engineering has evolved to enhance the performance of aircraft, particularly in diving speed and vibration management. Inspired by the peregrine falcon's wing morphology, this project aimed to design and evaluate a two-joint variable-sweep wing system. The goal was to investigate whether this system could outperform traditional fixed-wing and single-joint variable-sweep designs in terms of both diving speed and vibration reduction. The study hypothesized that a two-joint wing system, mimicking the falcon's natural wing morphing during flight, would improve these key performance indicators for unmanned aerial vehicles (UAVs).
+
+#### Design Approach  
+The aircraft featured a two-joint wing system, capable of zero joint actuation (fixed-wing), single joint actuation, and double joint actuation. The NACA 2412 airfoil profile was selected for its proven aerodynamic efficiency. The wing assembly included five components: two outer wings, two inner wings, and a base wing, with design considerations aimed at weight reduction without sacrificing structural integrity. The morphing mechanism was powered by a torsion spring and spool system, enabling the wings to adjust during flight. The assembly was fabricated using 3D printing technology and covered with a transparent cellophane sheet for aerodynamic performance.
+
+**Figure 1:** CAD Rendering of Wing Configurations  
+<br/><img src='/images/FalconWingCAD.png'>
+
+#### Results & Evaluation  
+- **Speed Performance:** Double-joint wings achieved the highest average speed of 5.29 m/s, compared to single-joint (4.46 m/s) and fixed wings (1.36 m/s).  
+- **Vibration Performance:** Double-joint wings exhibited the highest average vibration levels, followed by single-joint wings, and fixed wings. While the double-joint configuration did not reduce vibrations as hypothesized, it significantly outperformed the fixed-wing in terms of speed.  
+- **Statistical Analysis:** Using t-tests, significant differences were found in velocities across all configurations, with double-joint wings showing a clear advantage. Vibrational data showed no significant difference between single and double-joint configurations, suggesting that further optimization of the wing morphing system may be needed to balance speed and vibration suppression.
+
+Despite these challenges, the project provided valuable insights into wing morphing systems, proving that multi-joint wings can increase speed without significantly compromising structural stability.
+
+#### Impact & Future Work  
+This work contributes to the ongoing development of bio-inspired aerial robotics, opening new possibilities for wing morphing technologies in UAVs. While double-joint wings demonstrated higher speeds, further refinement is needed to address the vibration issue. Future iterations will focus on improving vibration suppression and exploring alternative actuation mechanisms for better control and stability. Additionally, real-time feedback mechanisms could be integrated into the system for more adaptive morphing during different flight regimes.
+
+**Figure 2:** Prototype Wing Assembly  
+<br/><img src='/images/FalconWingPrototype.png'>
+
+---
+
+### Presentation  
+<br/><img src='/images/FalconGliderPoster.png'>
+
+
 
 <br/><img src='/images/poster_bioinspired.png'>
 
