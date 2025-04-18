@@ -45,5 +45,6 @@ Boxmania fills a critical gap in the waste management tech ecosystem. Unlike ind
 
 ---
 
+
 ### Presentation  
 <br/><img src='/images/Boxmania_Poster.png'>
