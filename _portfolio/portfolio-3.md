@@ -6,7 +6,6 @@ collection: portfolio
 
 ---
 
-**Project 2 Revised Description:**
 
 ### Boxmania: A Robot That Automates Cardboard Waste Flattening  
 **Course:** Mechatronics Applications in Mechanical Engineering (24-354)  
