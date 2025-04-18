@@ -6,9 +6,9 @@ collection: portfolio
 
 ---
 ### PosChair: Posture Sensing and Correction Device  
-**Course:** Mechatronics Design Engineer (24-441)  
-**Team Role:** Controls and Force Measurement Integration Lead  
-**CMU Mechanical Engineering | Fall 2022**
+***Course:*** Mechatronics Design Engineer (24-441)  
+***Team Role:*** Controls and Force Measurement Integration Lead  
+***CMU Mechanical Engineering | Fall 2022***
 
 ### Introduction  
 From our extensive customer and market research, posture-related health issues, such as back pain and discomfort, are increasingly common among individuals who spend long hours seated at desks. Aiming to tackle this issue, our team designed PosChair, a device that senses posture deviations and provides corrective feedback to improve seated posture. By integrating multiple sensors, including infrared (IR) sensors for back position and load cells for weight distribution, PosChair provides real-time feedback to help users adjust their seating position. This project was born out of a desire to offer a low-cost, effective solution for office workers, students, and anyone in need of posture correction.
