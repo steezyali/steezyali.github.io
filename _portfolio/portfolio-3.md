@@ -10,7 +10,7 @@ collection: portfolio
 
 **Project 2 Revised Description:**
 
-### Boxmania: A Robot That Automates Cardboard Waste Flattening  
+### The Wood Designer: Automating Your Curves, One Bend at a Time! 
 **Course:** Mechatronics Applications in Mechanical Engineering (24-354)  
 **Team Role:** Controls and Force Measurement Integration Lead  
 **CMU Mechanical Engineering | Fall 2023**
