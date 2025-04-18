@@ -13,25 +13,32 @@ collection: portfolio
 **CMU Mechanical Engineering | Fall 2023**
 
 #### Introduction  
-In response to the rise of organic, curved designs in architecture and furniture design, our team developed a wood bending machine capable of transforming soaked wood into complex shapes. The goal was to provide a low-cost, accessible solution for designers and craftsmen who seek to replicate industry-grade curves without the cost or complexity of industrial bending systems. Our solution would essentially bridge the gap between engineering design and architectural intent in wood bending.
+While the rise of online shopping leads to accumulative cardboard packaging waste, Boxmania addresses this problem with an automated robot that can flatten cardboard boxes in under 30 seconds — reducing manual labor, improving recycling efficiency, and supporting sustainable waste practices.This cost-effective solution would be instrumental in helping small businesses recycle their boxes while ensuring a safe and eco-friendly environment.
 
 #### Design Approach  
-The system integrates two heavy-duty Actuonix linear actuators, load cells for force feedback, and a PID-controlled motor (drives 1/8-inch thick wooden planks up to 20 inches long) at multiple contact points. The structure was laser-cut from acrylic and reinforced with 3D printed brackets and clamps, creating a lightweight yet robust enclosure. Bending is achieved by soaking wood in 150°F water, clamping it at three points, and actuating the device through calibrated position commands.
+ Our robot performs five core tasks:
 
-**Figure 1:** Inner View of Device Bending Wood into Various Shapes  
+  - Detects the box
+  - Cuts tape with a linear blade mechanism
+  - Opens the flaps using dual-wheel actuation
+  - Flattens the box against a rigid panel
+  - Ejects it into a bin. The system is controlled via a microcontroller-based state machine with built-in safety redundancies such as lid interlock and error state detection
+
+
+**Figure 1:** Isometric View of Entire Test Rig
 <br/><img src='/images/Boxmania_Prototype.png'>
 
 #### Results & Evaluation  
-- **Max Bend Achieved:** 5.12 inches of vertical deflection  
-- **Cycle Time:** Under 40 seconds per test  
-- **Precision:** ±10 mm accuracy in actuator travel  
-- **Force Tracking:** Load cells enabled real-time monitoring of bending stress  
-- **Safety & Stability:** Dual-clamp design with structural rigidity maintained  
+- **Tape Cutting Success:** 80% first-pass reliability
+- **Flap Opening:**  66% reliability with optimization planned
+- **Flattening:** 100% reliability
+- **Total Cycle Time:** 25 seconds per box  
+- **Safety & Stability:** 2x factor of safety + interlock system
 
-Despite budget constraints and hardware setbacks (e.g., Linear Actuator Control (LAC) board failures, noisy load cell signals, and PID issues), the system met all but two technical goals — falling slightly short of a 90° bend and $300 cost cap. These gaps were mitigated by successful reengineering of the control circuit using L298N drivers and manually soldered PCB connections.
+Through iterative testing and user feedback, we optimized for speed, safety, and ease of maintenance. Our design uses modular subsystems and prioritizes repairability, making it suitable for real-world deployment in warehouses, dormitories, and retail environments.
 
 #### Impact & Future Work  
-This machine offers a unique blend of affordability and engineering precision for educational settings, design studios, and small workshops. Compared to $30,000 industrial wood benders, our ~$445 prototype demonstrates that fine-curved craftsmanship can be democratized and made readily available given a few mechatronic components. With further iteration, the device could support adaptive clamping, precisely tuned multi-axis motion, and computer vision, bringing sculptural woodworking within reach of hobbyists and makers.
+Boxmania fills a critical gap in the waste management tech ecosystem. Unlike industrial balers or de-palletizers, our design is compact, cost-effective, and preserves the box structure — allowing for reuse, not just recycling. Future iterations aim to expand box compatibility with different sizes, materials/textures and tapings, thus increasing automation via self-centering mechanisms and adjustable flap actuators.
 
 **Figure 2:** A Comprehensive View of the Wood Bending System  
 <br/><img src='/images/Boxmania_System.png'>
