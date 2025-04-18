@@ -25,8 +25,9 @@ While the rise of online shopping leads to accumulative cardboard packaging wast
   - Ejects it into a bin. The system is controlled via a microcontroller-based state machine with built-in safety redundancies such as lid interlock and error state detection
 
 
-**Figure 1:** Isometric View of Entire Test Rig
 <br/><img src='/images/Boxmania_Prototype.png'>
+**Figure 1:** Isometric View of Entire Test Rig
+
 
 ### Results & Evaluation  
 - **Tape Cutting Success:** 80% first-pass reliability
@@ -40,8 +41,9 @@ Through iterative testing and user feedback, we optimized for speed, safety, and
 ### Impact & Future Work  
 Boxmania fills a critical gap in the waste management tech ecosystem. Unlike industrial balers or de-palletizers, our design is compact, cost-effective, and preserves the box structure — allowing for reuse, not just recycling. Future iterations aim to expand box compatibility with different sizes, materials/textures and tapings, thus increasing automation via self-centering mechanisms and adjustable flap actuators.
 
-**Figure 2:** A Comprehensive View of Entire System  
 <br/><img src='/images/labeleld.png'>
+**Figure 2:** A Comprehensive View of Entire System  
+
 
 ---
 
