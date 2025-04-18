@@ -25,8 +25,10 @@ While the rise of online shopping leads to accumulative cardboard packaging wast
   - Ejects it into a bin. The system is controlled via a microcontroller-based state machine with built-in safety redundancies such as lid interlock and error state detection
 
 
-<br/><img src='/images/Boxmania_Prototype.png'>
+<br/><img src='/images/Boxmania_Prototype.png' alt="System View">
+
 **Figure 1:** Isometric View of Entire Test Rig
+
 
 
 ### Results & Evaluation  
