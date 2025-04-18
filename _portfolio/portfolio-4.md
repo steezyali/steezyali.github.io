@@ -16,8 +16,11 @@ From our extensive customer and market research, posture-related health issues, 
 ### Design Approach  
 Posture-related health issues, such as back pain and discomfort, are increasingly common among individuals who spend long hours seated at desks. Aiming to tackle this issue, our team designed PosChair, a device that senses posture deviations and provides corrective feedback to improve seated posture. By integrating multiple sensors, including infrared (IR) sensors for back position and load cells for weight distribution, PosChair provides real-time feedback to help users adjust their seating position. This project was born out of a desire to offer a low-cost, effective solution for office workers, students, and anyone in need of posture correction
 
+
+<br/><img src='/images/final cad rended or entire product.png' alt="System View">
+
 **Figure 1:**  CAD Render of Entire Product
-<br/><img src='/images/final cad rended or entire product.png'>
+
 
 ### Results & Evaluation  
 - **Sensing Accuracy:** IR sensors achieved an error margin of 2 cm, ensuring precise back angle measurement.  
@@ -31,12 +34,15 @@ Despite challenges in sensor calibration and integration, including the adjustme
 ### Impact & Future Work  
 PosChair offers a strategic approach in addressing multiple areas of the body and providing continuous feedback. Compared to existing market solutions, such as wearable posture devices or expensive ergonomic chairs, PosChair stands out due to its comprehensive feedback system, affordability (approximately $275), and ease of setup. Future iterations could include enhancements like adaptive feedback, additional sensor calibration, and wireless connectivity for data tracking. With further refinement, PosChair could be a valuable tool for individuals seeking long-term posture improvement. Within the project, a more defined machine learning design could be implemented that could collect data from the user and predict their future movements all based off the infrared distance and vibration distribution readings. Signal processing methods such as Savitsky-Golay and Low-Pass filters can also be used to reduce unnecessary noise and anomalies within the output sensor data.
 
+
+<br/><img src='/images/Poschair OVerview.png' alt="System View">
+
 **Figure 2:** Design Overview
-<br/><img src='/images/Poschair OVerview.png'>
+
+
+<br/><img src='/images/poschair.png' alt="System View">
 
 **Figure 3:** Circuitry Schematic of System Infrared and Vibration Sensors  
-<br/><img src='/images/poschair circuit.png'>
-
 
 ---
 
