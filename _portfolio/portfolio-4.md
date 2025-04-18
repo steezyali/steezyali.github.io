@@ -40,7 +40,7 @@ PosChair offers a strategic approach in addressing multiple areas of the body an
 **Figure 2:** Design Overview
 
 
-<br/><img src='/images/poschair.png' alt="System View">
+<br/><img src='/images/poschair circuit.png' alt="System View">
 
 **Figure 3:** Circuitry Schematic of System Infrared and Vibration Sensors  
 
