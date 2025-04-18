@@ -16,7 +16,8 @@ From our extensive customer and market research, posture-related health issues, 
 ### Design Approach  
 PosChair is equipped with dual sensor arrays: an infrared sensor system that detects the user's back position and angle, and load cells integrated into the seat to assess pressure distribution and detect slouching. The chair incorporates vibration motors that provide feedback when poor posture is detected, alerting the user to make necessary adjustments. The custom chair design ensures user comfort while integrating sensors and feedback mechanisms seamlessly into the structure.
 
-**Figure 1:** Full Prototype  
+**Figure 1:**  CAD Render of Entire Product
+<br/><img src='/images/final cad rended or entire product.png'>
 
 ### Results & Evaluation  
 - **Sensing Accuracy:** IR sensors achieved an error margin of 2 cm, ensuring precise back angle measurement.  
@@ -30,9 +31,11 @@ Despite challenges in sensor calibration and integration, including the adjustme
 ### Impact & Future Work  
 PosChair offers a holistic approach to posture correction by addressing multiple areas of the body and providing continuous feedback. Compared to existing market solutions, such as wearable posture devices or expensive ergonomic chairs, PosChair stands out due to its comprehensive feedback system, affordability (~$275), and ease of setup. Future iterations could include enhancements like adaptive feedback, additional sensor calibration, and wireless connectivity for data tracking. With further refinement, PosChair could be a valuable tool for individuals seeking long-term posture improvement.
 
-**Figure 1:** Design Overview
+**Figure 2:** Design Overview
+<br/><img src='/images/Poschair OVerview.png'>
 
-**Figure 2:** Circuitry Schematic of System Infrared and Vibration Sensors  
+**Figure 3:** Circuitry Schematic of System Infrared and Vibration Sensors  
+<br/><img src='/images/poschair circuit.png'>
 
 
 ---
