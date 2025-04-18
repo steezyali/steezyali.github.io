@@ -3,29 +3,41 @@ title: "PosChair: Posture Sensing and Correction Device (24-441)"
 excerpt: "Proof of concept product that can detect posture, make users aware of their posture, and correct that behavior for people seated at a desk. <br/><img src='/images/POSCHAIR.png'>"
 collection: portfolio
 ---
+**Project 3 Original:**  
+[Link: PosChair - Portfolio 4](https://steezyali.github.io/portfolio/portfolio-4/)
 
-Poor posture has been proven to have adverse effects on health and wellbeing, and can
-be the direct cause of chronic pain. Posture research has especially proven that these adverse
-effects particularly impact office workers and students, who sit at a desk for more than 6 hours
-every day. We decided to create a product that could detect posture, make
-users aware of their posture, and correct that behavior for people seated at a desk. To
-accomplish this goal, we decided to incorporate two sensor data streams, position of the user’s
-back and force exerted on the seat of the chair, to inform vibration and visual feedback to the
-user. Having both distance and force data would enable the user to improve their back curvature
-and seat positioning. Designing this product could provide more insight in posture enhancement
-for the user, since existing products only target specific areas, such as the neck and shoulders.
-Our first prototype was a proof of concept of the distance sensing system and visual feedback
-using ultrasonic sensors mounted to a rail with adjustable mounts. The second prototype
-included infrared position sensing, load cell weight distribution sensing, vibration motor
-feedback, and further data visualization. In this prototype, the sensing, feedback, and user
-interface subsystems were each in separate electrical circuits that were not interconnected. The
-final design is a custom chair with adjustable infrared sensors implemented in the chair back
-and and load cells in the seat for weight distribution mapping. In order to implement these
-sensors, we designed mounting brackets as attachment points for the infrared sensors to be
-integrated within the structure of the chair back, and the force sensors were attached beneath
-the surface layer of the seat. This final product meets our design requirements of sensing
-accuracy, comfort, clarity of feedback, ease of setup, and height and weight requirements.
+---
+
+**Project 3 Revised Description:**
+
+### PosChair: Posture Sensing and Correction Device  
+**Course:** Mechatronics Design Engineer (24-441)  
+**Team Role:** Controls and Force Measurement Integration Lead  
+**CMU Mechanical Engineering | Fall 2022**
+
+#### Introduction  
+From our extensive customer and market research, posture-related health issues, such as back pain and discomfort, are increasingly common among individuals who spend long hours seated at desks. Aiming to tackle this issue, our team designed PosChair, a device that senses posture deviations and provides corrective feedback to improve seated posture. By integrating multiple sensors, including infrared (IR) sensors for back position and load cells for weight distribution, PosChair provides real-time feedback to help users adjust their seating position. This project was born out of a desire to offer a low-cost, effective solution for office workers, students, and anyone in need of posture correction.
+
+#### Design Approach  
+PosChair is equipped with dual sensor arrays: an infrared sensor system that detects the user's back position and angle, and load cells integrated into the seat to assess pressure distribution and detect slouching. The chair incorporates vibration motors that provide feedback when poor posture is detected, alerting the user to make necessary adjustments. The custom chair design ensures user comfort while integrating sensors and feedback mechanisms seamlessly into the structure.
+
+**Figure 1:** Full Prototype  
+
+#### Results & Evaluation  
+- **Sensing Accuracy:** IR sensors achieved an error margin of 2 cm, ensuring precise back angle measurement.  
+- **Load Cell Sensitivity:** Successfully mapped pressure distribution, with a maximum weight detection of 110 lbs per cell.  
+- **Feedback Effectiveness:** Vibration feedback was effective in alerting users of poor posture, with customizable intensity levels for different postural deviations.  
+- **User Comfort:** The product met comfort ratings of 8-10/10, with minimal intrusion into the user's daily routine.  
+- **System Integration:** All subsystems (sensing, feedback, and interface) were successfully integrated and tested in tandem, ensuring seamless user interaction.
+
+Despite challenges in sensor calibration and integration, including the adjustment of load cells and fine-tuning the motor feedback, the product successfully met its functional goals.
+
+#### Impact & Future Work  
+PosChair offers a holistic approach to posture correction by addressing multiple areas of the body and providing continuous feedback. Compared to existing market solutions, such as wearable posture devices or expensive ergonomic chairs, PosChair stands out due to its comprehensive feedback system, affordability (~$275), and ease of setup. Future iterations could include enhancements like adaptive feedback, additional sensor calibration, and wireless connectivity for data tracking. With further refinement, PosChair could be a valuable tool for individuals seeking long-term posture improvement.
+
+**Figure 2:** Circuitry Schematic of System Infrared and Vibration Sensors  
 
 
-### Presentation
-<br/><img src='/images/Poster.png'> 
+---
+
+### Presentation  
