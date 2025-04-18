@@ -8,7 +8,6 @@ collection: portfolio
 
 ---
 
-**Project 3 Revised Description:**
 
 ### PosChair: Posture Sensing and Correction Device  
 **Course:** Mechatronics Design Engineer (24-441)  
