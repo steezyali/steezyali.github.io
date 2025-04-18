@@ -39,7 +39,7 @@ This machine offers a unique blend of affordability and engineering precision fo
 
 
 **Figure 2:** Circuitry Schematic of System including Actuonix Motors and Load Cells  
-<br/><img src='/images/wood_bend_schematic.pmg'>
+<br/><img src='/images/wood_bend_schematic.png'>
 
 ---
 
