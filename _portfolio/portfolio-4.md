@@ -4,7 +4,7 @@ excerpt: "Proof of concept product that can detect posture, make users aware of 
 collection: portfolio
 ---
 
-
+---
 ### PosChair: Posture Sensing and Correction Device  
 **Course:** Mechatronics Design Engineer (24-441)  
 **Team Role:** Controls and Force Measurement Integration Lead  
