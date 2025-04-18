@@ -1,20 +1,42 @@
 ---
-title: "Boxmania, Electromechanical Systems Design (24-370)"
-excerpt: "Automated cardboard flattening mechanism, a solution to cardboard waste <br/><img src='/images/2d1c08_5d6723af558541729cdc7b6c163c42b9~mv2.png'>"
+title: "Boxmania: A Robot That Automates Cardboard Waste Flattening (24-354)"
+excerpt: "A robotic solution that automates cardboard waste flattening, offering a low-cost, accessible approach to wood bending. <br/><img src='/images/Boxmania.png'>"
 collection: portfolio
 ---
 
+---
 
-Working at the intersection of mechanical design and mechatronics, I created a robot that can flatten your Amazon boxes autonomously for my electromechanical systems design class.
 
-This project addresses the unmet need for a cost-effective and automated solution to the pressing environmental challenge of cardboard waste. The existing issues with cardboard disposal, including the difficulties posed by size and bulk, time-consuming disassembly methods, and the economic burden on municipalities and waste management systems, necessitate an innovative approach. The solution? A mechanism that aims to bridge these gaps by providing a solution that combines the efficiency of automation with cost-effectiveness, addressing the environmental imperative of reducing cardboard waste and meeting the marketdemand for sustainable practices among online shoppers and small enterprises.
+### Boxmania: A Robot That Automates Cardboard Waste Flattening  
+**Course:** Mechatronics Applications in Mechanical Engineering (24-354)  
+**Team Role:** Controls and Force Measurement Integration Lead  
+**CMU Mechanical Engineering | Fall 2023**
 
-### Presentation 
+#### Introduction  
+In response to the rise of organic, curved designs in architecture and furniture design, our team developed a wood bending machine capable of transforming soaked wood into complex shapes. The goal was to provide a low-cost, accessible solution for designers and craftsmen who seek to replicate industry-grade curves without the cost or complexity of industrial bending systems. Our solution would essentially bridge the gap between engineering design and architectural intent in wood bending.
 
-<br/><img src='/images/Poster - BoxMania-1.png'>
+#### Design Approach  
+The system integrates two heavy-duty Actuonix linear actuators, load cells for force feedback, and a PID-controlled motor (drives 1/8-inch thick wooden planks up to 20 inches long) at multiple contact points. The structure was laser-cut from acrylic and reinforced with 3D printed brackets and clamps, creating a lightweight yet robust enclosure. Bending is achieved by soaking wood in 150°F water, clamping it at three points, and actuating the device through calibrated position commands.
 
-### See Boxmania in full action!
+**Figure 1:** Inner View of Device Bending Wood into Various Shapes  
+<br/><img src='/images/Boxmania_Prototype.png'>
 
-[![Your Video Title](https://your-image-host.com/your-thumbnail.jpg)](https://www.youtube.com/watch?v=3mwiCy7MEk4)
- 
+#### Results & Evaluation  
+- **Max Bend Achieved:** 5.12 inches of vertical deflection  
+- **Cycle Time:** Under 40 seconds per test  
+- **Precision:** ±10 mm accuracy in actuator travel  
+- **Force Tracking:** Load cells enabled real-time monitoring of bending stress  
+- **Safety & Stability:** Dual-clamp design with structural rigidity maintained  
 
+Despite budget constraints and hardware setbacks (e.g., Linear Actuator Control (LAC) board failures, noisy load cell signals, and PID issues), the system met all but two technical goals — falling slightly short of a 90° bend and $300 cost cap. These gaps were mitigated by successful reengineering of the control circuit using L298N drivers and manually soldered PCB connections.
+
+#### Impact & Future Work  
+This machine offers a unique blend of affordability and engineering precision for educational settings, design studios, and small workshops. Compared to $30,000 industrial wood benders, our ~$445 prototype demonstrates that fine-curved craftsmanship can be democratized and made readily available given a few mechatronic components. With further iteration, the device could support adaptive clamping, precisely tuned multi-axis motion, and computer vision, bringing sculptural woodworking within reach of hobbyists and makers.
+
+**Figure 2:** A Comprehensive View of the Wood Bending System  
+<br/><img src='/images/Boxmania_System.png'>
+
+---
+
+### Presentation  
+<br/><img src='/images/Boxmania_Poster.png'>
