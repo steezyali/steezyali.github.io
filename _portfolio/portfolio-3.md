@@ -18,8 +18,10 @@ In response to the rise of organic, curved designs in architecture and furniture
 ### Design Approach  
 The system integrates two heavy-duty Actuonix linear actuators, load cells for force feedback, and a PID-controlled motor (drives 1/8-inch thick wooden planks up to 20 inches long) at multiple contact points. The structure was laser-cut from acrylic and reinforced with 3D printed brackets and clamps, creating a lightweight yet robust enclosure. Bending is achieved by soaking wood in 150°F water, clamping it at three points, and actuating the device through calibrated position commands.
 
-**Figure 1:** Load Cell incorporated in clamping mechanism  
-<br/><img src='/images/loadcelll.png'>
+
+<br/><img src='/images/loadcelll.png' alt="System View">
+
+**Figure 1:** Load Cell incorporated in clamping mechanism
 
 ### Results & Evaluation  
 - **Max Bend Achieved:** 5.12 inches of vertical deflection  
@@ -33,20 +35,24 @@ Despite budget constraints and hardware setbacks (e.g., Linear Actuator Control 
 ### Impact & Future Work  
 This machine offers a unique blend of affordability and engineering precision for educational settings, design studios, and small workshops. Compared to $30,000 industrial wood benders, our ~$445 prototype demonstrates that fine-curved craftsmanship can be democratized and made readily available given a few mechatronic components. With further iteration, the device could support adaptive clamping, precisely tuned multi-axis motion, and computer vision, bringing sculptural woodworking within reach of hobbyists and makers.
 
+
+<br/><img src='/images/woodbendiung.png' alt="System View">
+
 **Figure 2:** A Comprehensive View of the Wood Bending System  
-<br/><img src='/images/woodbendiung.png'>
 
 ---
 
 
+<br/><img src='/images/wood_bend_schematic.png' alt="System View">
 
 **Figure 3:** Circuitry Schematic of System including Actuonix Motors and Load Cells  
-<br/><img src='/images/wood_bend_schematic.png'>
 
 ---
+ 
+
+<br/><img src='/images/IMG_2426.png' alt="System View">
 
 **Figure 4:** Side angle view of layout   
-<br/><img src='/images/IMG_2426.png'> 
 
 ### Real-time wood deformation with PID tuning
 [![Your Video Title](https://your-image-host.com/your-thumbnail.jpg)](https://www.youtube.com/watch?v=Uxw91of9tSk)
