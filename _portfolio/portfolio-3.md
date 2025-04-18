@@ -42,7 +42,7 @@ This machine offers a unique blend of affordability and engineering precision fo
 <br/><img src='/images/WoodBending_Poster.png'>
 
 
-**Figure 2:** A Comprehensive View of the Wood Bending System  
+**Figure 3:** Circuitry Schematic of System including Actuonix Motors and Load Cells  
 <br/><img src='/images/WoodBending_System.png'>
 
 ---
