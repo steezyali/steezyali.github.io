@@ -17,8 +17,8 @@ Since the Wright Brothers invented the first lighter-than-air aircraft in the ea
 ### Design Approach  
 The design implementation featured a two-joint wing system, capable of zero joint actuation (standard fixed-wing), single joint actuation, and double joint actuation. The NACA 2412 airfoil profile was selected for its proven aerodynamic efficiency. The wing assembly included five components: two outer wings, two inner wings, and a base wing, with design considerations aimed at weight reduction without sacrificing structural integrity. The morphing design was powered by a torsional spring and servo-connected spool system. The spring allowed planar rotation while the servo-spool enabled the wings to adjust during flight. The assembly was fabricated using 3D printing technology and covered with a transparent cellophane sheet for aerodynamic performance.
 
-**Figure 1:** CAD Rendering of Wing Configurations  
 <br/><img src='/images/FalconWingCAD.png'>
+**Figure 1:** CAD Rendering of Wing Configurations  
 
 ### Results & Evaluation  
 - **Speed Performance:** Double-joint wings achieved the highest average speed of 5.29 m/s, compared to single-joint (~4.46 m/s) and fixed wings (~1.36 m/s)
@@ -30,15 +30,11 @@ Despite these challenges, the project provided valuable insights into wing morph
 ### Impact & Future Work  
 This work contributes to the ongoing development of bio-inspired aerial robotics, opening new possibilities for wing morphing technologies in UAVs. While double-joint wings demonstrated higher speeds, further refinement is needed to address the vibration issue. Future iterations will focus on improving vibration suppression and exploring alternative actuation mechanisms for better control and stability. Additionally, real-time feedback mechanisms could be integrated into the system for more adaptive morphing during different flight regimes. Aside from additional design improvements, the project can also feature more data processing features that are geared towards improving more accurate data logging. Signal processing methods, such as the Kalman Filter, Fourier Transform, Wavelets and Low-Pass filtering, can help reduce system noise introduced via human error and predict three dimensional trajectories, allowing for greater analysis into the differences between double and zero joint configurations. It would also be great to simulate flight conditions in a flight simulator or wind tunnel for manual atmospheric conditions, damage reduction during flight and more controlled testing parameters. 
 
-**Figure 2:** Prototype Wing Assembly  
 <br/><img src='/images/FalconWingPrototype.png'>
+**Figure 2:** Prototype Wing Assembly  
+
 
 ---
-
-### Presentation  
-<br/><img src='/images/FalconGliderPoster.png'>
-
-
 
 <br/><img src='/images/poster_bioinspired.png'>
 
