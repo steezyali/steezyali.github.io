@@ -3,9 +3,12 @@ title: "Wood Bending Machine: A Mechatronic Solution for Curved Wood Bending (24
 excerpt: "A mechatronic system designed to bend soaked wood into complex shapes, offering an affordable solution for designers and craftsmen. <br/><img src='/images/WoodBendingMachine.png'>"
 collection: portfolio
 ---
+**Project 2 Original:**  
+[Link: Wood Bending Machine - Portfolio 3](https://steezyali.github.io/portfolio/portfolio-3/)
 
 ---
 
+**Project 2 Revised Description:**
 
 ### Boxmania: A Robot That Automates Cardboard Waste Flattening  
 **Course:** Mechatronics Applications in Mechanical Engineering (24-354)  
@@ -40,6 +43,13 @@ This machine offers a unique blend of affordability and engineering precision fo
 
 ### Presentation  
 <br/><img src='/images/WoodBending_Poster.png'>
+
+
+**Figure 2:** A Comprehensive View of the Wood Bending System  
+<br/><img src='/images/WoodBending_System.png'>
+
+---
+
 
 
 ### Side angle view of layout 
