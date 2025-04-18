@@ -34,7 +34,7 @@ Despite budget constraints and hardware setbacks (e.g., Linear Actuator Control 
 This machine offers a unique blend of affordability and engineering precision for educational settings, design studios, and small workshops. Compared to $30,000 industrial wood benders, our ~$445 prototype demonstrates that fine-curved craftsmanship can be democratized and made readily available given a few mechatronic components. With further iteration, the device could support adaptive clamping, precisely tuned multi-axis motion, and computer vision, bringing sculptural woodworking within reach of hobbyists and makers.
 
 **Figure 2:** A Comprehensive View of the Wood Bending System  
-<br/><img src='/images/WoodBending_System.png'>
+<br/><img src='/images/woodbendiung.png'>
 
 ---
 
