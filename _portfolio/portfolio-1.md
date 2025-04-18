@@ -31,6 +31,7 @@ Despite these challenges, the project provided valuable insights into wing morph
 This work contributes to the ongoing development of bio-inspired aerial robotics, opening new possibilities for wing morphing technologies in UAVs. While double-joint wings demonstrated higher speeds, further refinement is needed to address the vibration issue. Future iterations will focus on improving vibration suppression and exploring alternative actuation mechanisms for better control and stability. Additionally, real-time feedback mechanisms could be integrated into the system for more adaptive morphing during different flight regimes. Aside from additional design improvements, the project can also feature more data processing features that are geared towards improving more accurate data logging. Signal processing methods, such as the Kalman Filter, Fourier Transform, Wavelets and Low-Pass filtering, can help reduce system noise introduced via human error and predict three dimensional trajectories, allowing for greater analysis into the differences between double and zero joint configurations. It would also be great to simulate flight conditions in a flight simulator or wind tunnel for manual atmospheric conditions, damage reduction during flight and more controlled testing parameters. 
 
 <br/><img src='/images/FalconWingPrototype.png'>
+
 **Figure 2:** Prototype Wing Assembly  
 
 
