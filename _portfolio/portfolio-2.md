@@ -40,8 +40,8 @@ Through iterative testing and user feedback, we optimized for speed, safety, and
 #### Impact & Future Work  
 Boxmania fills a critical gap in the waste management tech ecosystem. Unlike industrial balers or de-palletizers, our design is compact, cost-effective, and preserves the box structure — allowing for reuse, not just recycling. Future iterations aim to expand box compatibility with different sizes, materials/textures and tapings, thus increasing automation via self-centering mechanisms and adjustable flap actuators.
 
-**Figure 2:** A Comprehensive View of the Wood Bending System  
-<br/><img src='/images/Boxmania_System.png'>
+**Figure 2:** A Comprehensive View of Entire System  
+<br/><img src='/images/labelled.png'>
 
 ---
 
