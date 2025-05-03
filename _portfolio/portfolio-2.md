@@ -29,7 +29,16 @@ While the rise of online shopping leads to accumulative cardboard packaging wast
 
 **Figure 1:** Isometric View of Entire Test Rig
 
+### My Contribution
 
+My core role in this project was to lead flap opening design and automation process (non-cutting).
+This involved the following:
+
+- **Flap Opener Desgn:** Iterating through multiple designs to achieve the following prongwd prototype
+
+<br/><img src='/images/flap' alt="System View">
+
+**Figure 2:** CAD Rendering of Wing Configurations
 
 ### Results & Evaluation  
 - **Tape Cutting Success:** 80% first-pass reliability
