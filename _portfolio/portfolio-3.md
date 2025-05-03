@@ -26,9 +26,7 @@ The system integrates two heavy-duty Actuonix linear actuators, load cells for f
 
 ### My Contribution
 
-My core role in this project was to lead the position/speed control of the actuator:
-
-- **Control:** I created and applied Proportional Integral Derivative (PID) to control the upward/downward speeds of the linear actuator such that the system would be able to recognize target positions and automatically ajdust. 
+My core role in this project was to lead the position/speed control of the actuator. I created and applied Proportional Integral Derivative (PID) to control the upward/downward speeds of the linear actuator such that the system would be able to recognize target positions and automatically ajdust. This allowed me to evaluate which bending positions (for planks with fixed dimenisons) were feasible given the limited torque provided by the actuators. 
 
 
 
