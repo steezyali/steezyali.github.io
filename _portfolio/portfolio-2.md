@@ -38,7 +38,7 @@ This involved the following:
 - **Flap Opener Desgn:** Iterating through multiple designs to achieve the following pronged prototype. This involved laser-cutting scrap 1/4 inch sections of ply wood and measuring the minimum spacing between the inner flaps to design the opening prong
 -  **Automation:** Connecting the pronged confguration to a 12 Volt DC motor with two wheels, and performing PID control to control speeds and elongation of linear drive mechanism
 
-<br/><img src='/images/flap' alt="System View">
+<br/><img src='/images/flap.png' alt="System View">
 
 **Figure 2:** Prototype of Pronged Flap Opener
 
