@@ -23,6 +23,15 @@ The system integrates two heavy-duty Actuonix linear actuators, load cells for f
 
 **Figure 1:** Load Cell incorporated in clamping mechanism
 
+
+### My Contribution
+
+My core role in this project was to lead the position/speed control of the actuator:
+
+- **Control:** I created and applied Proportional Integral Derivative (PID) to control the upward/downward speeds of the linear actuator such that the system would be able to recognize target positions and automatically ajdust. 
+
+
+
 ### Results & Evaluation  
 - **Max Bend Achieved:** 5.12 inches of vertical deflection  
 - **Cycle Time:** Under 40 seconds per test  
