@@ -22,7 +22,7 @@ The design implementation featured a two-joint wing system, capable of zero join
 
 **Figure 1:** CAD Rendering of Wing Configurations
 
-### Contribution
+### My Contribution
 
 My core role in this project was to lead the electronic design and data analysis;
 This involved the following:
@@ -32,7 +32,7 @@ This involved the following:
 
 <br/><img src='/images/flycirc' alt="System View">
 
-**Figure 1:** CAD Rendering of Wing Configurations
+**Figure 2:** CAD Rendering of Wing Configurations
 
 ### Results & Evaluation  
 - **Speed Performance:** Double-joint wings achieved the highest average speed of 5.29 m/s, compared to single-joint (~4.46 m/s) and fixed wings (~1.36 m/s)
@@ -47,7 +47,7 @@ This work contributes to the ongoing development of bio-inspired aerial robotics
 
 <br/><img src='/images/FalconWingPrototype.png' alt="System View">
 
-**Figure 2:** Prototype Wing Assembly
+**Figure 3:** Prototype Wing Assembly
 
 
 
