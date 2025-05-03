@@ -36,9 +36,9 @@ This involved the following:
 
 - **Flap Opener Desgn:** Iterating through multiple designs to achieve the following prongwd prototype
 
-<br/><img src='/images/flap' alt="System View">
+<br/><img src='/images/1-aa87a250' alt="System View">
 
-**Figure 2:** CAD Rendering of Wing Configurations
+**Figure 2:** Prototype of Pronged Flap Opener
 
 ### Results & Evaluation  
 - **Tape Cutting Success:** 80% first-pass reliability
@@ -54,7 +54,7 @@ Boxmania fills a critical gap in the waste management tech ecosystem. Unlike ind
 
 <br/><img src='/images/labeleld.png' alt="System View">
 
-**Figure 2:** A Comprehensive View of Entire System
+**Figure 3:** A Comprehensive View of Entire System
 
 
 
