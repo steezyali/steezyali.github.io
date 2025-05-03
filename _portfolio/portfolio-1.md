@@ -22,6 +22,18 @@ The design implementation featured a two-joint wing system, capable of zero join
 
 **Figure 1:** CAD Rendering of Wing Configurations
 
+### Contribution
+
+My core role in this project was to lead the electronic design and data analysis;
+This involved the following:
+
+- **Sensor Integration:** Integrated barometer (BMP390), SD Card Data Logger, Vibration Sensors, Servo Motor and Battery Power
+- **Vibration & Altitude Performance:** I was able to calculate tangential velocity using our testbed landing locations and altitude (barometer) sensor readings.  I applied the Savtisky-Golay filter to the vibration datasets and used altitude
+
+<br/><img src='/images/flycirc' alt="System View">
+
+**Figure 1:** CAD Rendering of Wing Configurations
+
 ### Results & Evaluation  
 - **Speed Performance:** Double-joint wings achieved the highest average speed of 5.29 m/s, compared to single-joint (~4.46 m/s) and fixed wings (~1.36 m/s)
 - **Vibration Performance:** Double-joint wings exhibited the highest average vibration levels, followed by single-joint wings, and fixed wings. While the double-joint configuration did not reduce vibrations as hypothesized, it significantly outperformed the fixed-wing in terms of speed.  
