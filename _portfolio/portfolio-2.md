@@ -31,10 +31,11 @@ While the rise of online shopping leads to accumulative cardboard packaging wast
 
 ### My Contribution
 
-My core role in this project was to lead flap opening design and automation process (non-cutting).
+My core role in this project was to lead flap opening design and linear automation process (non-cutting).
 This involved the following:
 
-- **Flap Opener Desgn:** Iterating through multiple designs to achieve the following prongwd prototype
+- **Flap Opener Desgn:** Iterating through multiple designs to achieve the following pronged prototype. This involved laser-cutting scrap 1/4 inch sections of ply wood and measuring the minimum spacing between the inner flaps to design the opening prong
+-  **Automation:** Connecting the pronged confguration to a 12 Volt DC motor with two wheels, and performing PID control to control speeds and elongation of linear drive mechanism
 
 <br/><img src='/images/1-aa87a250' alt="System View">
 
