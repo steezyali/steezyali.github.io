@@ -21,6 +21,9 @@ Posture-related health issues, such as back pain and discomfort, are increasingl
 
 **Figure 1:**  CAD Render of Entire Product
 
+### My Contribution
+
+My core role in this project was to lead the Infrared Proximity Sensor implementation within the seat design. This involved mounting three Sharp GP2Y0A41SK0F sensors onto a vertical frame that would be embedded within the back-cushions of the seat. I calibrated and de-noised the sensor readings with simple rolling averages, which succesfully allowed the team to measure the distance between a chare back cushion and a seated person's back with a consistent error of 2-3 cm. This implementation allowed me to simulate the user's back angle posture via horizontal distance measurements and calculate angles that can dictate poor posture. This electronic setup was also connected to the vibration sensors, signalling vibrations in the bottom cushion when certain distance thresholds were violated.
 
 ### Results & Evaluation  
 - **Sensing Accuracy:** IR sensors achieved an error margin of 2 cm, ensuring precise back angle measurement.  
